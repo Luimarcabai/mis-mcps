@@ -13,6 +13,7 @@ Registro centralizado de todos los servidores MCP que uso con Claude Code y clau
 | ga4-server | [surendranb/google-analytics-mcp](https://github.com/surendranb/google-analytics-mcp) | No | Google Analytics 4 | &mdash; |
 | google-ads-server | [cohnen/mcp-google-ads](https://github.com/cohnen/mcp-google-ads) | No | Google Ads | &mdash; |
 | mcp-woo-casarcasa | [lockon-n/woocommerce-mcp](https://github.com/lockon-n/woocommerce-mcp) | [Luimarcabai/woocommerce-mcp](https://github.com/Luimarcabai/woocommerce-mcp) | WooCommerce (SDK v1.x) | fundaspersonalizables.es |
+| dataforseo-server | [dataforseo/mcp-server-typescript](https://github.com/dataforseo/mcp-server-typescript) | No | DataForSEO (SERPs, keywords, backlinks, on-page, dominios) &mdash; PAGO | &mdash; |
 
 ### Conectores cloud (claude.ai)
 
